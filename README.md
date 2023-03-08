@@ -10,20 +10,16 @@ ___
 
 [1. Crawler](#1-crawler)
    
-[2. The tables](#tables)
+[2. The tables](#2-tables)
 
-[3. Citation and more](#more)
+[3. Citation and more](#3-more)
 
 # 1. Crawler
 ## Get started with our crawler
 ___
-To facilitate research of media bias we share....f code:
-```python 
-from datasets import load_dataset
+To facilitate research of media bias we share the following code: 
 
-### Note
-Due to the fact that not all MBIB tasks are available for public distribution, we share our benchmark dataset in two versions
-
+CODE INSTRUCTIONS GO HERE
 
 # 2. The tables
 As mentioned in the paper, we publish the accompanying tables. They can be found [here on Zenodo](https://zenodo.org/deposit/7707761)
@@ -32,8 +28,8 @@ As mentioned in the paper, we publish the accompanying tables. They can be found
 Please cite us as:
 ```python
 @inproceedings{
-    title = {Introducing MBIB - the first Media Bias Identification Benchmark Task and Dataset Collection},
-    author = {Wessel, Martin and Horych, Tomáš and Ruas, Terry and Aizawa, Akiko and Gipp, Bela and Spinde, Timo},
+    title = {The Media Bias Taxonomy: A Systematic Literature Review on the Forms and Automated Detection of Media Bias.},
+    author = {Spinde, Timo and Hinterreiter, Smi and Haak, Fabian and Ruas, Terry and Giese, Helge and Meuschke, Norman and Gipp, Bela},
     year = {2023},
     note = {[in review]}
 }
