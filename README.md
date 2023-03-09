@@ -20,7 +20,14 @@ ___
 To facilitate research of media bias we share the code of the scraping tool we used to retrieve the candidate documents for our literature review. The tool uses the REST APIs of [Semantic Scholar](https://www.semanticscholar.org/) and [DBLP](https://dblp.org/) to retrieve literature from both platforms for a set of search terms. To search Semantic Scholar, you require a Semantic Scholar API Key.
 
 ## How to use the crawler
-We provide the tool as a documented Jupyter Notebook. Follow these steps to use it:
+We provide the tool as a documented Jupyter Notebook:
+```
+crawler_ses-dblp.ipynb
+
+```
+
+
+Follow these steps to use the tool:
 1. Make sure that you have the modules requests, json, pandas, numpy, tqdm, and time installed and up-to-date.
 2. In the "Search Parameters" section of the scraping tool, you can adjust setting to your search preferences:
    - **search_semantic_scholar** and **search_dblp** : Where to perform the search.
@@ -35,7 +42,7 @@ We provide the tool as a documented Jupyter Notebook. Follow these steps to use 
 The Jupyter Nootebook provides further instructions on how to use the tool In the comments and Markdowm segments.
 
 # 2. The tables
-As mentioned in the paper, we publish the accompanying tables. They can be found [here on Zenodo](https://zenodo.org/deposit/7707761)
+As mentioned in the paper, we publish the accompanying tables. They can be found [here on Zenodo](https://zenodo.org/deposit/7707761).
 
 # 3. Citation
 Please cite us as:
