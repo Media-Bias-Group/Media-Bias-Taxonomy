@@ -1,0 +1,1 @@
+Find information on how to use the crawling tool in the description on [https://github.com/Media-Bias-Group/The-Media-Bias-Taxonomy-Literature-Review/](https://github.com/Media-Bias-Group/The-Media-Bias-Taxonomy-Literature-Review/)
