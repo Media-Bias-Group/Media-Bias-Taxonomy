@@ -23,7 +23,6 @@ To facilitate research of media bias we share the code of the scraping tool we u
 We provide the tool as a documented Jupyter Notebook:
 ```
 crawler_ses-dblp.ipynb
-
 ```
 
 
