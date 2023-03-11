@@ -1,7 +1,7 @@
 # The-Media-Bias-Taxonomy-Literature-Review
 In this repo, we detail all workflows accompanying our Media Bias Taxonomy. Also, we publish an easily usable literature crawler to execute literature reviews. 
 
-![d](figures/transparent.png)
+![d](figures/framework.png)
 
 # Introduction
 This repository contains all resources from the paper "The Media Bias Taxonomy: A Systematic Literature Review on the Forms and Automated Detection of Media Bias." Our literature review summarizes the research on computational methods to detect media bias by systematically reviewing 3140 research papers published between 2019 and 2022. The link to the paper will be added in case of journal acceptance. 
