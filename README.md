@@ -36,7 +36,7 @@ Follow these steps to use the tool:
    - **return_fieldes** : Choose, which information the tool retrieves on each publication from Semantic Scholar.
    - **publication_type** : Types of publications to be searched for on Semantic Scholar.
    - **fields_of_Study** : Select from a range of fields of study to be searched for on Semantic Scholar.
-3. **Preparing Keywords**. Provide a keyword file named "keywords_ses.txt" for Semantic Scholar and "keywords_ses.txt" for DBLP, in which each line contains a search query.
+3. **Preparing Keywords**. Provide a keyword file named "keywords_ses.txt" for Semantic Scholar and "keywords_ses.txt" for DBLP, in which each line contains a search query. The initial keywords files in this repo are empty, so please make sure to fill them before running. 
 
 The Jupyter Nootebook provides further instructions on how to use the tool In the comments and Markdowm segments.
 
